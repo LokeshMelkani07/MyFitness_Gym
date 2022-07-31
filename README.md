@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+MyFitness_Gym Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Gym Website which uses ReactJs , Material UI components like Box , Typography , Stack , Loader , Pagination and uses ExcerciseDB and Youtube Search and Download API from rapidAPI.
 
-## Available Scripts
+Site is live at link : https://myfitness-gym-lokesh.netlify.app/
 
-In the project directory, you can run:
+Demo Video : 
+https://user-images.githubusercontent.com/93420193/182025178-30fcb3d6-19c3-48dc-9987-6703a1489ec6.mp4
 
-### `npm start`
+Demo Images :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="960" alt="gym1" src="https://user-images.githubusercontent.com/93420193/182025193-a07462e1-0a97-4d28-868f-890e38c08b6e.png">
+<img width="960" alt="gym2" src="https://user-images.githubusercontent.com/93420193/182025198-de6b6d45-7d0a-4e2b-8297-90abb012f49f.png">
+<img width="960" alt="gym3" src="https://user-images.githubusercontent.com/93420193/182025199-fee3f5ea-4996-4d67-8d13-7bf1059ffa94.png">
+<img width="960" alt="gym4" src="https://user-images.githubusercontent.com/93420193/182025204-8735f06e-e2ed-49d9-bac6-93d0b4186d98.png">
+<img width="960" alt="gym5" src="https://user-images.githubusercontent.com/93420193/182025209-f1b19425-0d09-4ac1-9a6d-a0db625a600e.png">
+<img width="960" alt="gym6" src="https://user-images.githubusercontent.com/93420193/182025211-65492cca-739d-4a4b-8ef5-bcdac0b8db16.png">
